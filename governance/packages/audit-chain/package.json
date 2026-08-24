@@ -35,7 +35,7 @@
     "reflect-metadata": "^0.2.2",
     "typeorm": "^0.3.17",
     "typescript": "^5.9.3",
-    "vitest": "^4.1.10"
+    "vitest": "^4.1.11"
   },
   "engines": {
     "node": ">=22.18.0 <23"
