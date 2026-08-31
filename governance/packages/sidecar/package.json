@@ -31,7 +31,7 @@
     "@agent-governance/guardrail": "workspace:*",
     "@agent-governance/outbox": "workspace:*",
     "@agent-governance/permission": "workspace:*",
-    "@electric-sql/pglite": "^0.5.5",
+    "@electric-sql/pglite": "^0.5.8",
     "@electric-sql/pglite-socket": "^0.2.8",
     "@modelcontextprotocol/sdk": "^1.30.0",
     "express": "^5.2.1"
